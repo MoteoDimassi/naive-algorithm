@@ -1,0 +1,15 @@
+/Users/dmitrijdzioev/Desktop/Наивный_Алгоритм/Наивный_Алгоритм/bin/Debug/net5.0/Наивный_Алгоритм.deps.json
+/Users/dmitrijdzioev/Desktop/Наивный_Алгоритм/Наивный_Алгоритм/bin/Debug/net5.0/Наивный_Алгоритм.runtimeconfig.json
+/Users/dmitrijdzioev/Desktop/Наивный_Алгоритм/Наивный_Алгоритм/bin/Debug/net5.0/Наивный_Алгоритм.runtimeconfig.dev.json
+/Users/dmitrijdzioev/Desktop/Наивный_Алгоритм/Наивный_Алгоритм/bin/Debug/net5.0/Наивный_Алгоритм.dll
+/Users/dmitrijdzioev/Desktop/Наивный_Алгоритм/Наивный_Алгоритм/bin/Debug/net5.0/ref/Наивный_Алгоритм.dll
+/Users/dmitrijdzioev/Desktop/Наивный_Алгоритм/Наивный_Алгоритм/bin/Debug/net5.0/Наивный_Алгоритм.pdb
+/Users/dmitrijdzioev/Desktop/Наивный_Алгоритм/Наивный_Алгоритм/obj/Debug/net5.0/Наивный_Алгоритм.csproj.AssemblyReference.cache
+/Users/dmitrijdzioev/Desktop/Наивный_Алгоритм/Наивный_Алгоритм/obj/Debug/net5.0/Наивный_Алгоритм.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitrijdzioev/Desktop/Наивный_Алгоритм/Наивный_Алгоритм/obj/Debug/net5.0/Наивный_Алгоритм.AssemblyInfoInputs.cache
+/Users/dmitrijdzioev/Desktop/Наивный_Алгоритм/Наивный_Алгоритм/obj/Debug/net5.0/Наивный_Алгоритм.AssemblyInfo.cs
+/Users/dmitrijdzioev/Desktop/Наивный_Алгоритм/Наивный_Алгоритм/obj/Debug/net5.0/Наивный_Алгоритм.csproj.CoreCompileInputs.cache
+/Users/dmitrijdzioev/Desktop/Наивный_Алгоритм/Наивный_Алгоритм/obj/Debug/net5.0/Наивный_Алгоритм.dll
+/Users/dmitrijdzioev/Desktop/Наивный_Алгоритм/Наивный_Алгоритм/obj/Debug/net5.0/ref/Наивный_Алгоритм.dll
+/Users/dmitrijdzioev/Desktop/Наивный_Алгоритм/Наивный_Алгоритм/obj/Debug/net5.0/Наивный_Алгоритм.pdb
+/Users/dmitrijdzioev/Desktop/Наивный_Алгоритм/Наивный_Алгоритм/obj/Debug/net5.0/Наивный_Алгоритм.genruntimeconfig.cache
