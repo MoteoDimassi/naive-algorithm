@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ztdlYzzV6OLjjU3GOic6T/uOkPMMji2zGz5B8LG/vo/fGmOHSGH61fvBn6cWh3mAoBnFkyq7qDS/zF8atShJwA==",
+  "success": true,
+  "projectFilePath": "/Users/dmitrijdzioev/Desktop/naive-algorithm-main/Наивный_Алгоритм/Наивный_Алгоритм/Наивный_Алгоритм.csproj",
+  "expectedPackageFiles": [
+    "/Users/dmitrijdzioev/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/dmitrijdzioev/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.15/microsoft.netcore.app.host.osx-x64.5.0.15.nupkg.sha512",
+    "/Users/dmitrijdzioev/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
